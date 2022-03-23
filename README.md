@@ -4,12 +4,12 @@ aka ListGen (Prototype Name)
 A Nested, Multilist Database Application for convenient and Quality of Life note taking
 
 ## Table of Contents
-	Obtain
-	Pre-Requiste/Setup
-	Usage
-	Contacts
-	Remarks
-	News & Updates
+* [Obtain](#obtain)
+* [Pre-Requistes and Setup](#pre-requisites-and-setup)
+* [Usage](#usage)
+* [Contacts](#contacts)
+* [Remarks](#remarks)
+* [News and Updates](#news-and-updates)
 
 ## Program Information
 
@@ -40,7 +40,7 @@ A Nested, Multilist Database Application for convenient and Quality of Life note
 
 ## Obtain
 
-## Pre-Requisite/Setup
+## Pre-Requisites and Setup
 - Ensure that you have Python 3.10.0 and above (Created & Tested on Python 3.10)
 	- While project is using Android Kivy
 
@@ -54,7 +54,7 @@ A Nested, Multilist Database Application for convenient and Quality of Life note
 
 ## Remarks
 
-## News & Updates
+## News and Updates
 - 2022-03-24 00:07H, Asura
 	- Hello all! As of this update, I am testing out android app development with Kivy to find out
 		which framework or languages to use.
